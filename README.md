@@ -34,6 +34,7 @@ Plugins Preinstalled
 - MoreTrees - Increases the amount of tree on PocketMine
 - BenchMark - Show location in-game screen
 - Gentleman - Block expletives chat in ImagicalMine
+- Dimensions - Nether on IM
 
 [Special Thanks] if(Team); People (https://github.com/if-Team)
 
